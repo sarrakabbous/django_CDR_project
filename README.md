@@ -1,0 +1,1 @@
+# django_CDR_project
